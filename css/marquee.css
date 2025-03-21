@@ -3,11 +3,10 @@
 	-moz-box-sizing:border-box;
 	-o-box-sizing:border-box;
 	box-sizing:border-box;
-	font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 .simple-marquee-container {
 	width: 100%;
-	background: grey;
+	background: transparent;
 	float: left;
 	display: inline-block;
 	overflow: hidden;
